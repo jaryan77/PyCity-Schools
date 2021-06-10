@@ -22,7 +22,7 @@ Your final report should include each of the following:
     * % Overall Passing (The percentage of students that passed math and reading.)
 * Here is a screenshot of code to calculate the metrics listed above:
 
-**NOTE**: `main_df` are the two CSVs merged on "school_name". In order to get an accurate budget, I needed to use the data from [`school_data`](https://github.com/jaryan77/PyCity-Schools/blob/main/PyCitySchools/Resources/schools_complete.csv) only.
+**NOTE**: `main_df` are the two CSVs merged on the column `school_name`. In order to get an accurate budget, I needed to use the data from [`school_data`](https://github.com/jaryan77/PyCity-Schools/blob/main/PyCitySchools/Resources/schools_complete.csv) only.
 
 ![district_summary_calc](Images/district_summary_calculations.PNG)
 
