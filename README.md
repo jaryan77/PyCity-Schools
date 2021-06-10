@@ -81,3 +81,24 @@ Below is a screenshot of code to obtain the above results:
 
 ![reading_scores](Images/reading_scores.png)
 
+### Scores by School Spending
+
+* Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
+  * Average Math Score
+  * Average Reading Score
+  * % Passing Math (The percentage of students that passed math.)
+  * % Passing Reading (The percentage of students that passed reading.)
+  * % Overall Passing (The percentage of students that passed math **and** reading.)
+
+ 
+![spending_summary](Images/spending_summary.png)
+
+### Scores by School Size
+
+* Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
+
+
+
+### Scores by School Type
+
+* Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
