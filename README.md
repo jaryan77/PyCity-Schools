@@ -97,8 +97,10 @@ Below is a screenshot of code to obtain the above results:
 
 * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
-
+![score_by_size](Images/score_by_size.png)
 
 ### Scores by School Type
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
+
+![score_by_type](Images/score_by_type.png)
