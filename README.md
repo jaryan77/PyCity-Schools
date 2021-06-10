@@ -65,5 +65,19 @@ Below is a screenshot of code to obtain the above results:
 
 ![bottom_schools](Images/bottom_schools.png)
 
+### Math Scores by Grade
 
+* Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
+![calc_math_scores](Images/calc_math_scores.png)
+
+![math_scores](Images/math_scores.png)
+
+### Reading Scores by Grade
+
+* Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
+![calc_reading_scores](Images/calc_reading_scores.png)
+
+![reading_scores](Images/reading_scores.png)
 
