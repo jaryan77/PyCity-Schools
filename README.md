@@ -57,5 +57,13 @@ Below is a screenshot of code to obtain the above results:
 
 ![school_summary](Images/school_summary.png)
 
+## Top and Bottom Performing Schools
+
+* Sort and display the top 5 and worst 5 performing schools: 
+
+![top_schools](Images/top_schools.png)
+
+![bottom_schools](Images/bottom_schools.png)
+
 
 
